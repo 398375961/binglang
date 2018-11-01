@@ -1,0 +1,21 @@
+2017-09-12 08:48:16 无法使用数据库 'autosale'。
+2017-09-12 08:48:16 执行以下SQL语句时失败：'drop database autosale' <br><br>Can't drop database 'autosale'; database doesn't exist
+2017-09-12 08:48:35 执行以下SQL语句时失败：'CREATE TABLE `t_vm_rule_group` (
+			  `id` int(11) NOT NULL AUTO_INCREMENT,
+			  `group_name` varchar(255) NOT NULL,
+			  `group_type` tinyint(2) DEFAULT 0 COMMNET '0系统权限组1自定义权限组',
+			  `admin_rules` text,
+			  `group_rules` text COMMENT '允许创建的权限组下线',
+			  `user_id` INT(10) DEFAULT 1 COMMENT '权限组创建者',
+			  PRIMARY KEY (`id`)
+			) ENGINE=MyISAM DEFAULT CHARSET=utf8' <br><br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'COMMNET '0系统权限组1自定义权限组',
+			  `admin_rules` text,
+			  `' at line 4
+2018-06-28 16:29:06 无法使用数据库 'autosale'。
+2018-06-28 16:29:06 执行以下SQL语句时失败：'drop database autosale' <br><br>Can't drop database 'autosale'; database doesn't exist
+2018-06-28 16:31:31 数据库连接配置信息不完整，请检查配置！
+2018-06-28 16:31:31 切换数据库，但是没有传递数据库参数！ 
+2018-06-28 16:43:55 无法使用数据库 'autosale'。
+2018-06-28 16:43:55 执行以下SQL语句时失败：'drop database autosale' <br><br>Can't drop database 'autosale'; database doesn't exist
+2018-07-13 22:05:16 无法使用数据库 'autosale'。
+2018-07-13 22:05:16 执行以下SQL语句时失败：'drop database autosale' <br><br>Can't drop database 'autosale'; database doesn't exist
