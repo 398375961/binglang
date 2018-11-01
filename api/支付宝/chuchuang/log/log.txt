@@ -1,0 +1,954 @@
+2015-04-10 12:11:41  POST: array (
+)
+2015-04-10 12:11:41  GET: array (
+)
+2015-04-10 12:11:41  some parameter is empty.
+2015-04-10 12:16:06  POST: array (
+  'operation_id' => '2015041000003753531',
+  'notify_time' => '2015-04-10 18:16:06',
+  'auth_no' => '2015041000002001530000002672',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '142837915234232',
+  'notify_type' => 'fund_auth_freeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'FREEZE',
+  'order_status' => 'AUTHORIZED',
+  'sign' => '06013cdf76fbdabfc7aadb5d13226acc',
+  'total_unfreeze_amount' => '0.00',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 18:15:49',
+  'rest_amount' => '0.01',
+  'total_freeze_amount' => '0.01',
+  'out_request_no' => '142837923154232',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '024906d17455a6aa25749591cc47b73k38',
+  'gmt_trans' => '2015-04-10 18:16:06',
+)
+2015-04-10 12:16:06  GET: array (
+)
+2015-04-10 12:16:06  some parameter is empty.
+2015-04-10 12:16:13  POST: array (
+)
+2015-04-10 12:16:13  GET: array (
+  'amount' => '0.01',
+  'auth_no' => '2015041000002001530000002672',
+  'is_success' => 'T',
+  'operation_id' => '2015041000003753531',
+  'out_order_no' => '142837915234232',
+  'out_request_no' => '142837923154232',
+  'status' => 'SUCCESS',
+  'sign' => 'eaf7eec847b73b28fb784f766205ad13',
+  'sign_type' => 'MD5',
+)
+2015-04-10 12:16:13  some parameter is empty.
+2015-04-10 12:19:43  POST: array (
+  'operation_id' => '2015041000003753531',
+  'notify_time' => '2015-04-10 18:19:42',
+  'auth_no' => '2015041000002001530000002672',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '142837915234232',
+  'notify_type' => 'fund_auth_freeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'FREEZE',
+  'order_status' => 'AUTHORIZED',
+  'sign' => '202eea1524c7949a0d7fe575c7920665',
+  'total_unfreeze_amount' => '0.00',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 18:15:49',
+  'rest_amount' => '0.01',
+  'total_freeze_amount' => '0.01',
+  'out_request_no' => '142837923154232',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '024906d17455a6aa25749591cc47b73k38',
+  'gmt_trans' => '2015-04-10 18:16:06',
+)
+2015-04-10 12:19:43  GET: array (
+)
+2015-04-10 12:19:43  some parameter is empty.
+2015-04-10 12:27:19  POST: array (
+  'subject' => '西北妇儿-消化科挂号费用10元支付',
+  'trade_no' => '2015041021001004530043631026',
+  'paytools_pay_amount' => '[{"ALIPAYACCOUNT":"0.01"}]',
+  'buyer_email' => 'ranhaijun@vip.qq.com',
+  'gmt_create' => '2015-04-10 18:27:18',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '5512449364121341937',
+  'notify_time' => '2015-04-10 18:27:18',
+  'seller_id' => '2088911040140712',
+  'trade_status' => 'TRADE_SUCCESS',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2015-04-10 18:27:18',
+  'seller_email' => 'xjtu_2yuan_org@163.com',
+  'notify_action_type' => 'payByAccountAction',
+  'price' => '0.01',
+  'buyer_id' => '2088702052268530',
+  'notify_id' => '2a74e39ce79010eefaa84563f4121b6k38',
+  'sign_type' => 'MD5',
+  'sign' => 'd78f6cf2ad254951890b755fb7b049a9',
+)
+2015-04-10 12:27:19  GET: array (
+)
+2015-04-10 12:27:19  some parameter is empty.
+2015-04-10 12:29:14  POST: array (
+  'operation_id' => '2015041000003753531',
+  'notify_time' => '2015-04-10 18:29:13',
+  'auth_no' => '2015041000002001530000002672',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '142837915234232',
+  'notify_type' => 'fund_auth_freeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'FREEZE',
+  'order_status' => 'AUTHORIZED',
+  'sign' => 'f0a0c7f315d6e3a284f84be0b0d1e3e9',
+  'total_unfreeze_amount' => '0.00',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 18:15:49',
+  'rest_amount' => '0.01',
+  'total_freeze_amount' => '0.01',
+  'out_request_no' => '142837923154232',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '024906d17455a6aa25749591cc47b73k38',
+  'gmt_trans' => '2015-04-10 18:16:06',
+)
+2015-04-10 12:29:14  GET: array (
+)
+2015-04-10 12:29:14  some parameter is empty.
+2015-04-10 12:31:43  POST: array (
+  'subject' => '西北妇儿-消化科挂号费用10元支付',
+  'trade_no' => '2015041021001004530043631026',
+  'paytools_pay_amount' => '[{"ALIPAYACCOUNT":"0.01"}]',
+  'buyer_email' => 'ranhaijun@vip.qq.com',
+  'gmt_create' => '2015-04-10 18:27:18',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '5512449364121341937',
+  'notify_time' => '2015-04-10 18:31:42',
+  'seller_id' => '2088911040140712',
+  'trade_status' => 'TRADE_SUCCESS',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2015-04-10 18:27:18',
+  'seller_email' => 'xjtu_2yuan_org@163.com',
+  'notify_action_type' => 'payByAccountAction',
+  'price' => '0.01',
+  'buyer_id' => '2088702052268530',
+  'notify_id' => '2a74e39ce79010eefaa84563f4121b6k38',
+  'sign_type' => 'MD5',
+  'sign' => '076a79d0966d627cf1fffecbd9eebf70',
+)
+2015-04-10 12:31:43  GET: array (
+)
+2015-04-10 12:31:43  some parameter is empty.
+2015-04-10 12:39:25  POST: array (
+  'operation_id' => '2015041000003753531',
+  'notify_time' => '2015-04-10 18:39:25',
+  'auth_no' => '2015041000002001530000002672',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '142837915234232',
+  'notify_type' => 'fund_auth_freeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'FREEZE',
+  'order_status' => 'AUTHORIZED',
+  'sign' => 'b0ebd64d0d243ba19323a048646d96fd',
+  'total_unfreeze_amount' => '0.00',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 18:15:49',
+  'rest_amount' => '0.01',
+  'total_freeze_amount' => '0.01',
+  'out_request_no' => '142837923154232',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '024906d17455a6aa25749591cc47b73k38',
+  'gmt_trans' => '2015-04-10 18:16:06',
+)
+2015-04-10 12:39:25  GET: array (
+)
+2015-04-10 12:39:25  some parameter is empty.
+2015-04-10 12:41:28  POST: array (
+  'subject' => '西北妇儿-消化科挂号费用10元支付',
+  'trade_no' => '2015041021001004530043631026',
+  'paytools_pay_amount' => '[{"ALIPAYACCOUNT":"0.01"}]',
+  'buyer_email' => 'ranhaijun@vip.qq.com',
+  'gmt_create' => '2015-04-10 18:27:18',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '5512449364121341937',
+  'notify_time' => '2015-04-10 18:41:28',
+  'seller_id' => '2088911040140712',
+  'trade_status' => 'TRADE_SUCCESS',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2015-04-10 18:27:18',
+  'seller_email' => 'xjtu_2yuan_org@163.com',
+  'notify_action_type' => 'payByAccountAction',
+  'price' => '0.01',
+  'buyer_id' => '2088702052268530',
+  'notify_id' => '2a74e39ce79010eefaa84563f4121b6k38',
+  'sign_type' => 'MD5',
+  'sign' => 'ce47bbb8e77e558af9e7e228c22adafa',
+)
+2015-04-10 12:41:28  GET: array (
+)
+2015-04-10 12:41:28  some parameter is empty.
+2015-04-10 12:49:06  POST: array (
+  'operation_id' => '2015041000003756531',
+  'notify_time' => '2015-04-10 18:49:05',
+  'auth_no' => '2015040700002001530000002615',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '1428375788220',
+  'notify_type' => 'fund_auth_unfreeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'UNFREEZE',
+  'order_status' => 'CLOSED',
+  'sign' => '13407f5aea993f4a8d7bf0aed98c1f5d',
+  'total_unfreeze_amount' => '0.01',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 18:49:05',
+  'rest_amount' => '0.00',
+  'total_freeze_amount' => '0.01',
+  'out_request_no' => '20140212323313',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '627f469e9c8174618e32c0cb2024377k38',
+  'gmt_trans' => '2015-04-10 18:49:05',
+)
+2015-04-10 12:49:06  GET: array (
+)
+2015-04-10 12:49:06  some parameter is empty.
+2015-04-10 12:51:51  POST: array (
+  'subject' => '西北妇儿-消化科挂号费用10元支付',
+  'trade_no' => '2015041021001004530043631026',
+  'paytools_pay_amount' => '[{"ALIPAYACCOUNT":"0.01"}]',
+  'buyer_email' => 'ranhaijun@vip.qq.com',
+  'gmt_create' => '2015-04-10 18:27:18',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '5512449364121341937',
+  'notify_time' => '2015-04-10 18:51:51',
+  'seller_id' => '2088911040140712',
+  'trade_status' => 'TRADE_SUCCESS',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2015-04-10 18:27:18',
+  'seller_email' => 'xjtu_2yuan_org@163.com',
+  'notify_action_type' => 'payByAccountAction',
+  'price' => '0.01',
+  'buyer_id' => '2088702052268530',
+  'notify_id' => '2a74e39ce79010eefaa84563f4121b6k38',
+  'sign_type' => 'MD5',
+  'sign' => 'd64bd9a0c60a27e3e28f707576fe2c7a',
+)
+2015-04-10 12:51:51  GET: array (
+)
+2015-04-10 12:51:51  some parameter is empty.
+2015-04-10 12:52:35  POST: array (
+  'operation_id' => '2015041000003756531',
+  'notify_time' => '2015-04-10 18:52:35',
+  'auth_no' => '2015040700002001530000002615',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '1428375788220',
+  'notify_type' => 'fund_auth_unfreeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'UNFREEZE',
+  'order_status' => 'CLOSED',
+  'sign' => '0aaa049afc9b3e0c7da8f0b0d88ef770',
+  'total_unfreeze_amount' => '0.01',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 18:49:05',
+  'rest_amount' => '0.00',
+  'total_freeze_amount' => '0.01',
+  'out_request_no' => '20140212323313',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '627f469e9c8174618e32c0cb2024377k38',
+  'gmt_trans' => '2015-04-10 18:49:05',
+)
+2015-04-10 12:52:35  GET: array (
+)
+2015-04-10 12:52:35  some parameter is empty.
+2015-04-10 13:02:38  POST: array (
+  'operation_id' => '2015041000003756531',
+  'notify_time' => '2015-04-10 19:02:38',
+  'auth_no' => '2015040700002001530000002615',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '1428375788220',
+  'notify_type' => 'fund_auth_unfreeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'UNFREEZE',
+  'order_status' => 'CLOSED',
+  'sign' => '22108c09dde2a6a66447089168bfc1ca',
+  'total_unfreeze_amount' => '0.01',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 18:49:05',
+  'rest_amount' => '0.00',
+  'total_freeze_amount' => '0.01',
+  'out_request_no' => '20140212323313',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '627f469e9c8174618e32c0cb2024377k38',
+  'gmt_trans' => '2015-04-10 18:49:05',
+)
+2015-04-10 13:02:38  GET: array (
+)
+2015-04-10 13:02:38  some parameter is empty.
+2015-04-10 13:12:01  POST: array (
+  'operation_id' => '2015041000003756531',
+  'notify_time' => '2015-04-10 19:12:01',
+  'auth_no' => '2015040700002001530000002615',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '1428375788220',
+  'notify_type' => 'fund_auth_unfreeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'UNFREEZE',
+  'order_status' => 'CLOSED',
+  'sign' => '8425f1f0bc2990f7ea6d52b4efd721c6',
+  'total_unfreeze_amount' => '0.01',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 18:49:05',
+  'rest_amount' => '0.00',
+  'total_freeze_amount' => '0.01',
+  'out_request_no' => '20140212323313',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '627f469e9c8174618e32c0cb2024377k38',
+  'gmt_trans' => '2015-04-10 18:49:05',
+)
+2015-04-10 13:12:01  GET: array (
+)
+2015-04-10 13:12:01  some parameter is empty.
+2015-04-10 13:14:51  POST: array (
+  'operation_id' => '2015041000003757531',
+  'notify_time' => '2015-04-10 19:14:50',
+  'auth_no' => '2015041000002001530000002674',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '1428379152342321',
+  'notify_type' => 'fund_auth_freeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'FREEZE',
+  'order_status' => 'AUTHORIZED',
+  'sign' => '8d83cc73ae1985e781284de6eab39850',
+  'total_unfreeze_amount' => '0.00',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 19:14:36',
+  'rest_amount' => '0.01',
+  'total_freeze_amount' => '0.01',
+  'out_request_no' => '142837923154232',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '03179ac0feb9edecef147d35dbd6937k38',
+  'gmt_trans' => '2015-04-10 19:14:50',
+)
+2015-04-10 13:14:51  GET: array (
+)
+2015-04-10 13:14:51  some parameter is empty.
+2015-04-10 13:15:01  POST: array (
+)
+2015-04-10 13:15:01  GET: array (
+  'amount' => '0.01',
+  'auth_no' => '2015041000002001530000002674',
+  'is_success' => 'T',
+  'operation_id' => '2015041000003757531',
+  'out_order_no' => '1428379152342321',
+  'out_request_no' => '142837923154232',
+  'status' => 'SUCCESS',
+  'sign' => 'ff3fc8c7b4cc9dbc598f9f0b3b0260c0',
+  'sign_type' => 'MD5',
+)
+2015-04-10 13:15:01  some parameter is empty.
+2015-04-10 13:17:33  POST: array (
+)
+2015-04-10 13:17:33  GET: array (
+  'amount' => '0.01',
+  'auth_no' => '2015041000002001530000002674',
+  'is_success' => 'T',
+  'operation_id' => '2015041000003757531',
+  'out_order_no' => '1428379152342321',
+  'out_request_no' => '142837923154232',
+  'status' => 'SUCCESS',
+  'sign' => 'ff3fc8c7b4cc9dbc598f9f0b3b0260c0',
+  'sign_type' => 'MD5',
+)
+2015-04-10 13:17:33  some parameter is empty.
+2015-04-10 13:17:45  POST: array (
+  'operation_id' => '2015041000003757531',
+  'notify_time' => '2015-04-10 19:17:45',
+  'auth_no' => '2015041000002001530000002674',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '1428379152342321',
+  'notify_type' => 'fund_auth_freeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'FREEZE',
+  'order_status' => 'AUTHORIZED',
+  'sign' => '0624d17ff24f84a3967f8096e4a7572a',
+  'total_unfreeze_amount' => '0.00',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 19:14:36',
+  'rest_amount' => '0.01',
+  'total_freeze_amount' => '0.01',
+  'out_request_no' => '142837923154232',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '03179ac0feb9edecef147d35dbd6937k38',
+  'gmt_trans' => '2015-04-10 19:14:50',
+)
+2015-04-10 13:17:45  GET: array (
+)
+2015-04-10 13:17:45  some parameter is empty.
+2015-04-10 13:17:56  POST: array (
+  'operation_id' => '2015041000003758531',
+  'notify_time' => '2015-04-10 19:17:56',
+  'auth_no' => '2015041000002001530000002674',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '1428379152342321',
+  'notify_type' => 'fund_auth_freeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'FREEZE',
+  'order_status' => 'AUTHORIZED',
+  'sign' => '733618f63acfb9042d7b711f497ced38',
+  'total_unfreeze_amount' => '0.00',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 19:17:46',
+  'rest_amount' => '0.02',
+  'total_freeze_amount' => '0.02',
+  'out_request_no' => '20140703002',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '4986fdaa832487e54aebe2aff094c4dk38',
+  'gmt_trans' => '2015-04-10 19:17:55',
+)
+2015-04-10 13:17:56  GET: array (
+)
+2015-04-10 13:17:56  some parameter is empty.
+2015-04-10 13:18:03  POST: array (
+)
+2015-04-10 13:18:03  GET: array (
+  'amount' => '0.01',
+  'auth_no' => '2015041000002001530000002674',
+  'is_success' => 'T',
+  'operation_id' => '2015041000003758531',
+  'out_order_no' => '1428379152342321',
+  'out_request_no' => '20140703002',
+  'status' => 'SUCCESS',
+  'sign' => '3be41b13b245a6754b8866aad4581fff',
+  'sign_type' => 'MD5',
+)
+2015-04-10 13:18:03  some parameter is empty.
+2015-04-10 13:20:31  POST: array (
+  'operation_id' => '2015041000003758531',
+  'notify_time' => '2015-04-10 19:20:31',
+  'auth_no' => '2015041000002001530000002674',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '1428379152342321',
+  'notify_type' => 'fund_auth_freeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'FREEZE',
+  'order_status' => 'AUTHORIZED',
+  'sign' => '4858eb52bbab76ca07fd92bd29e11502',
+  'total_unfreeze_amount' => '0.00',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 19:17:46',
+  'rest_amount' => '0.02',
+  'total_freeze_amount' => '0.02',
+  'out_request_no' => '20140703002',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '4986fdaa832487e54aebe2aff094c4dk38',
+  'gmt_trans' => '2015-04-10 19:17:55',
+)
+2015-04-10 13:20:31  GET: array (
+)
+2015-04-10 13:20:31  some parameter is empty.
+2015-04-10 13:27:53  POST: array (
+  'operation_id' => '2015041000003757531',
+  'notify_time' => '2015-04-10 19:27:53',
+  'auth_no' => '2015041000002001530000002674',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '1428379152342321',
+  'notify_type' => 'fund_auth_freeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'FREEZE',
+  'order_status' => 'AUTHORIZED',
+  'sign' => 'c863a9f788b07a1e850ece9310589f22',
+  'total_unfreeze_amount' => '0.00',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 19:14:36',
+  'rest_amount' => '0.01',
+  'total_freeze_amount' => '0.01',
+  'out_request_no' => '142837923154232',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '03179ac0feb9edecef147d35dbd6937k38',
+  'gmt_trans' => '2015-04-10 19:14:50',
+)
+2015-04-10 13:27:53  GET: array (
+)
+2015-04-10 13:27:53  some parameter is empty.
+2015-04-10 13:30:09  POST: array (
+  'operation_id' => '2015041000003758531',
+  'notify_time' => '2015-04-10 19:30:09',
+  'auth_no' => '2015041000002001530000002674',
+  'status' => 'SUCCESS',
+  'sign_type' => 'MD5',
+  'out_order_no' => '1428379152342321',
+  'notify_type' => 'fund_auth_freeze',
+  'payer_user_id' => '2088702052268530',
+  'operation_type' => 'FREEZE',
+  'order_status' => 'AUTHORIZED',
+  'sign' => '6d808673cd5885079ecf327edefd59c7',
+  'total_unfreeze_amount' => '0.00',
+  'amount' => '0.01',
+  'gmt_create' => '2015-04-10 19:17:46',
+  'rest_amount' => '0.02',
+  'total_freeze_amount' => '0.02',
+  'out_request_no' => '20140703002',
+  'payer_logon_id' => 'ranhaijun@vip.qq.com',
+  'total_pay_amount' => '0.00',
+  'notify_id' => '4986fdaa832487e54aebe2aff094c4dk38',
+  'gmt_trans' => '2015-04-10 19:17:55',
+)
+2015-04-10 13:30:09  GET: array (
+)
+2015-04-10 13:30:09  some parameter is empty.
+2015-04-10 13:33:51  POST: array (
+  'sign' => 'ed2cc8092645414d12ac1a9f751f618f',
+  'result_details' => '2015041021001004530043631026^0.01^SUCCESS',
+  'notify_time' => '2015-04-10 19:33:50',
+  'sign_type' => 'MD5',
+  'notify_type' => 'batch_refund_notify',
+  'notify_id' => 'd7924d9ef1a00c8a307fd125bc5d62djs4',
+  'batch_no' => '2015041000232',
+  'success_num' => '1',
+)
+2015-04-10 13:33:51  GET: array (
+)
+2015-04-10 13:33:51  some parameter is empty.
+2015-04-15 12:13:39  POST: array (
+)
+2015-04-15 12:13:39  GET: array (
+)
+2015-04-15 12:13:39  some parameter is empty.
+2015-04-16 05:09:49  POST: array (
+  'sign' => 'joZRHQW3TeRIJHXrtWlESrKv5M1xE1ej0e9lKXT5UdMd78XCGy7tJ0xqd+z3+rBWQMgchavVvCRNuf91bEbzK+aEPaYICLTY4w3UglcZlGcNQwPuLxuoUAdPKf494XNP924O0CAJ7/loZ0nmd9n4+9seTQfJJZmIqwNuHbieb2s=',
+  'biz_content' => '<XML><AppId><![CDATA[2014072300007148]]></AppId><FromUserId/><CreateTime><![CDATA[1406083506817]]></CreateTime><MsgType><![CDATA[event]]></MsgType><EventType><![CDATA[verifygw]]></EventType><ActionParam/><AgreementId/><AccountNo/></XML>',
+  'timestamp' => '2015-04-16 11:09:49',
+  'sign_type' => 'RSA',
+  'service' => 'alipay.service.check',
+  'charset' => 'GBK',
+  'app_id' => '2014100900013222',
+)
+2015-04-16 05:09:49  GET: array (
+)
+2015-04-16 05:09:49  response_xml: <?xml version="1.0" encoding="GBK"?><alipay><response><success>false</success><error_code>VERIFY_FAILED</error_code><biz_content>MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDdJAQqGm0tHaMs0cgHl29N3gFv9aSsCcKFcK+edI4OQFl0iLt6U4In/st9XXJMQjN2Ltun6JsD3cHEx1iNmE26H2Z+C/AU6usaqnLQwmQnAhvik7XE/wkHAhcNRq55qCm6Xt48yrmE6hkO5NH2y6DQIIdiaYC5XhKNqWb7tezLJQIDAQAB</biz_content></response><sign>dkcb/WJvcv6oAx/2eGyGr5SSxUxN3Bj7a7IjY0lViHwA+XfRBFKfhW7X8/OuFBpIxoSgLavFNDP3RzC1r2Q8FiRFmrZI0TeaTmVwLJALnaFe7ryvpE9dPCzAP1KoH4ky1o59/DgeJOsA1qjPep+8mNtHeRFechJwsaKAAg7+jyk=</sign><sign_type>RSA</sign_type></alipay>
+2015-04-17 05:04:38  POST: array (
+)
+2015-04-17 05:04:38  GET: array (
+  'agreement_no' => '20150417054275920553',
+  'invalid_time' => '2115-02-01 00:00:00',
+  'is_success' => 'T',
+  'product_code' => 'GENERAL_WITHHOLDING_P',
+  'sign_modify_time' => '2015-04-17 11:04:34',
+  'sign_time' => '2015-04-17 11:04:34',
+  'status' => 'NORMAL',
+  'valid_time' => '2015-04-17 11:04:34',
+  'sign' => '3e345f0ea50a4eac515b471de7b18cb8',
+  'sign_type' => 'MD5',
+)
+2015-04-17 05:04:38  some parameter is empty.
+2015-04-17 05:23:36  POST: array (
+  'subject' => '代扣测试',
+  'trade_no' => '2015041721001004530070836716',
+  'paytools_pay_amount' => '[{"ALIPAYACCOUNT":"0.01"}]',
+  'buyer_email' => 'ranhaijun@vip.qq.com',
+  'gmt_create' => '2015-04-17 11:23:34',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '5512449321341937',
+  'notify_time' => '2015-04-17 11:23:35',
+  'seller_id' => '2088101568353491',
+  'trade_status' => 'TRADE_SUCCESS',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2015-04-17 11:23:35',
+  'seller_email' => 'alipay-test07@alipay.com',
+  'notify_action_type' => 'payByAccountAction',
+  'price' => '0.01',
+  'buyer_id' => '2088702052268530',
+  'notify_id' => 'a33e40bd309a66fc38efcef7b8cd697k38',
+  'sign_type' => 'MD5',
+  'sign' => 'b951d8c9af35b9db856450d6ef1b927e',
+)
+2015-04-17 05:23:36  GET: array (
+)
+2015-04-17 05:23:36  some parameter is empty.
+2015-04-17 05:27:18  POST: array (
+  'subject' => '代扣测试',
+  'trade_no' => '2015041721001004530070836716',
+  'paytools_pay_amount' => '[{"ALIPAYACCOUNT":"0.01"}]',
+  'buyer_email' => 'ranhaijun@vip.qq.com',
+  'gmt_create' => '2015-04-17 11:23:34',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '5512449321341937',
+  'notify_time' => '2015-04-17 11:27:17',
+  'seller_id' => '2088101568353491',
+  'trade_status' => 'TRADE_SUCCESS',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2015-04-17 11:23:35',
+  'seller_email' => 'alipay-test07@alipay.com',
+  'notify_action_type' => 'payByAccountAction',
+  'price' => '0.01',
+  'buyer_id' => '2088702052268530',
+  'notify_id' => 'a33e40bd309a66fc38efcef7b8cd697k38',
+  'sign_type' => 'MD5',
+  'sign' => '2d6a84960503916486fd30113e8153e2',
+)
+2015-04-17 05:27:18  GET: array (
+)
+2015-04-17 05:27:18  some parameter is empty.
+2015-04-17 05:37:19  POST: array (
+  'subject' => '代扣测试',
+  'trade_no' => '2015041721001004530070836716',
+  'paytools_pay_amount' => '[{"ALIPAYACCOUNT":"0.01"}]',
+  'buyer_email' => 'ranhaijun@vip.qq.com',
+  'gmt_create' => '2015-04-17 11:23:34',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '5512449321341937',
+  'notify_time' => '2015-04-17 11:37:18',
+  'seller_id' => '2088101568353491',
+  'trade_status' => 'TRADE_SUCCESS',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2015-04-17 11:23:35',
+  'seller_email' => 'alipay-test07@alipay.com',
+  'notify_action_type' => 'payByAccountAction',
+  'price' => '0.01',
+  'buyer_id' => '2088702052268530',
+  'notify_id' => 'a33e40bd309a66fc38efcef7b8cd697k38',
+  'sign_type' => 'MD5',
+  'sign' => 'b1bf5a6de43d1304f5a6236cd402a335',
+)
+2015-04-17 05:37:19  GET: array (
+)
+2015-04-17 05:37:19  some parameter is empty.
+2015-04-17 05:47:53  POST: array (
+  'subject' => '代扣测试',
+  'trade_no' => '2015041721001004530070836716',
+  'paytools_pay_amount' => '[{"ALIPAYACCOUNT":"0.01"}]',
+  'buyer_email' => 'ranhaijun@vip.qq.com',
+  'gmt_create' => '2015-04-17 11:23:34',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '5512449321341937',
+  'notify_time' => '2015-04-17 11:47:52',
+  'seller_id' => '2088101568353491',
+  'trade_status' => 'TRADE_SUCCESS',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2015-04-17 11:23:35',
+  'seller_email' => 'alipay-test07@alipay.com',
+  'notify_action_type' => 'payByAccountAction',
+  'price' => '0.01',
+  'buyer_id' => '2088702052268530',
+  'notify_id' => 'a33e40bd309a66fc38efcef7b8cd697k38',
+  'sign_type' => 'MD5',
+  'sign' => '97e4b0cf59c291d137d1d37f9cab49b5',
+)
+2015-04-17 05:47:53  GET: array (
+)
+2015-04-17 05:47:53  some parameter is empty.
+2015-04-17 06:47:48  POST: array (
+  'subject' => '代扣测试',
+  'trade_no' => '2015041721001004530070836716',
+  'paytools_pay_amount' => '[{"ALIPAYACCOUNT":"0.01"}]',
+  'buyer_email' => 'ranhaijun@vip.qq.com',
+  'gmt_create' => '2015-04-17 11:23:34',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '5512449321341937',
+  'notify_time' => '2015-04-17 12:47:47',
+  'seller_id' => '2088101568353491',
+  'trade_status' => 'TRADE_SUCCESS',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2015-04-17 11:23:35',
+  'seller_email' => 'alipay-test07@alipay.com',
+  'notify_action_type' => 'payByAccountAction',
+  'price' => '0.01',
+  'buyer_id' => '2088702052268530',
+  'notify_id' => 'a33e40bd309a66fc38efcef7b8cd697k38',
+  'sign_type' => 'MD5',
+  'sign' => 'f63af4819a79265be432976254a48a2e',
+)
+2015-04-17 06:47:48  GET: array (
+)
+2015-04-17 06:47:48  some parameter is empty.
+2015-04-17 06:50:55  POST: array (
+)
+2015-04-17 06:50:55  GET: array (
+  'agreement_no' => '20150417054275920553',
+  'invalid_time' => '2015-04-18 12:50:52',
+  'is_success' => 'T',
+  'product_code' => 'GENERAL_WITHHOLDING_P',
+  'sign_modify_time' => '2015-04-17 12:50:52',
+  'sign_time' => '2015-04-17 11:04:34',
+  'status' => 'NORMAL',
+  'valid_time' => '2015-04-17 11:04:34',
+  'sign' => '9118befa1e82e743bacff506a4cdf843',
+  'sign_type' => 'MD5',
+)
+2015-04-17 06:50:55  some parameter is empty.
+2015-04-17 07:38:54  POST: array (
+)
+2015-04-17 07:38:54  GET: array (
+  'agreement_no' => '20150417054311668553',
+  'invalid_time' => '2015-04-18 13:38:49',
+  'is_success' => 'T',
+  'product_code' => 'GENERAL_WITHHOLDING_P',
+  'sign_modify_time' => '2015-04-17 13:38:49',
+  'sign_time' => '2015-04-17 13:38:49',
+  'status' => 'NORMAL',
+  'valid_time' => '2015-04-17 13:38:49',
+  'sign' => 'f9394ae14e54b6c98cc2ace0056bbdbc',
+  'sign_type' => 'MD5',
+)
+2015-04-17 07:38:54  some parameter is empty.
+2015-04-17 07:39:21  POST: array (
+)
+2015-04-17 07:39:21  GET: array (
+  'agreement_no' => '20150417054311668553',
+  'invalid_time' => '2015-04-18 13:38:49',
+  'is_success' => 'T',
+  'product_code' => 'GENERAL_WITHHOLDING_P',
+  'sign_modify_time' => '2015-04-17 13:38:49',
+  'sign_time' => '2015-04-17 13:38:49',
+  'status' => 'NORMAL',
+  'valid_time' => '2015-04-17 13:38:49',
+  'sign' => 'f9394ae14e54b6c98cc2ace0056bbdbc',
+  'sign_type' => 'MD5',
+)
+2015-04-17 07:39:21  some parameter is empty.
+2015-04-17 08:47:56  POST: array (
+  'subject' => '代扣测试',
+  'trade_no' => '2015041721001004530070836716',
+  'paytools_pay_amount' => '[{"ALIPAYACCOUNT":"0.01"}]',
+  'buyer_email' => 'ranhaijun@vip.qq.com',
+  'gmt_create' => '2015-04-17 11:23:34',
+  'notify_type' => 'trade_status_sync',
+  'quantity' => '1',
+  'out_trade_no' => '5512449321341937',
+  'notify_time' => '2015-04-17 14:47:55',
+  'seller_id' => '2088101568353491',
+  'trade_status' => 'TRADE_SUCCESS',
+  'total_fee' => '0.01',
+  'gmt_payment' => '2015-04-17 11:23:35',
+  'seller_email' => 'alipay-test07@alipay.com',
+  'notify_action_type' => 'payByAccountAction',
+  'price' => '0.01',
+  'buyer_id' => '2088702052268530',
+  'notify_id' => 'a33e40bd309a66fc38efcef7b8cd697k38',
+  'sign_type' => 'MD5',
+  'sign' => 'b1d36b571cdd4142aa02e82b97c53ca7',
+)
+2015-04-17 08:47:56  GET: array (
+)
+2015-04-17 08:47:56  some parameter is empty.
+2015-05-14 10:56:18  POST: array (
+)
+2015-05-14 10:56:18  GET: array (
+)
+2015-05-14 17:14:54  response: false
+2015-05-14 17:15:46  response: false
+2015-05-14 17:16:30  response: false
+2015-05-14 17:16:39  response: false
+2015-05-14 17:17:40  response: false
+2015-05-14 17:33:52  response: stdClass::__set_state(array(
+   'alipay_trade_pay_response' => 
+  stdClass::__set_state(array(
+     'code' => '40006',
+     'msg' => 'Insufficient Permissions',
+     'sub_code' => 'isv.insufficient-isv-permissions',
+     'sub_msg' => 'ISV权限不足',
+  )),
+   'sign' => 'toxYJiiaL2+6K8ry750HV+9m/9cwobDadvqscyp8oYE1MxXSKWFNRRHmjXE9ZNlVwuDZMcMWspLpj2ShNn24nkoX5WATFkOS/GKu637tCTeDabdhu+6fT4sGA8ZxbnH14bauUkN7mT+UkMbjXWa6tfHmv6K6oVRJ8PfG4uwcILk=',
+))
+2015-05-14 17:38:35  response: false
+2015-05-14 17:38:44  response: stdClass::__set_state(array(
+   'alipay_trade_pay_response' => 
+  stdClass::__set_state(array(
+     'code' => '40006',
+     'msg' => 'Insufficient Permissions',
+     'sub_code' => 'isv.insufficient-isv-permissions',
+     'sub_msg' => 'ISV权限不足',
+  )),
+   'sign' => 'toxYJiiaL2+6K8ry750HV+9m/9cwobDadvqscyp8oYE1MxXSKWFNRRHmjXE9ZNlVwuDZMcMWspLpj2ShNn24nkoX5WATFkOS/GKu637tCTeDabdhu+6fT4sGA8ZxbnH14bauUkN7mT+UkMbjXWa6tfHmv6K6oVRJ8PfG4uwcILk=',
+))
+2015-05-14 17:40:43  response: stdClass::__set_state(array(
+   'alipay_trade_pay_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.INVALID_PARAMETER',
+     'sub_msg' => '参数无效',
+  )),
+   'sign' => 'VUvzsc2j3RftCJvllUH51KfBBbQ4KZIqRpgI9ftkkryQ5Sk7EDUSqVxaVdhoECONY/zhWi6zfTn9CefazeF/RQNHSf/FciqtOnt165aEWl2fCYNMJ5gkQwvyvzihgs6SRH/9ONPeSc6SQzI4DmHrR44ZNuNmN76pqtUw+L0/v3s=',
+))
+2015-05-14 17:41:25  response: stdClass::__set_state(array(
+   'alipay_trade_pay_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.INVALID_PARAMETER',
+     'sub_msg' => '参数无效',
+  )),
+   'sign' => 'VUvzsc2j3RftCJvllUH51KfBBbQ4KZIqRpgI9ftkkryQ5Sk7EDUSqVxaVdhoECONY/zhWi6zfTn9CefazeF/RQNHSf/FciqtOnt165aEWl2fCYNMJ5gkQwvyvzihgs6SRH/9ONPeSc6SQzI4DmHrR44ZNuNmN76pqtUw+L0/v3s=',
+))
+2015-05-14 17:42:43  response: stdClass::__set_state(array(
+   'alipay_trade_pay_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.INVALID_PARAMETER',
+     'sub_msg' => '参数无效',
+  )),
+   'sign' => 'VUvzsc2j3RftCJvllUH51KfBBbQ4KZIqRpgI9ftkkryQ5Sk7EDUSqVxaVdhoECONY/zhWi6zfTn9CefazeF/RQNHSf/FciqtOnt165aEWl2fCYNMJ5gkQwvyvzihgs6SRH/9ONPeSc6SQzI4DmHrR44ZNuNmN76pqtUw+L0/v3s=',
+))
+2015-05-14 17:42:54  response: stdClass::__set_state(array(
+   'alipay_trade_pay_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.INVALID_PARAMETER',
+     'sub_msg' => '参数无效',
+  )),
+   'sign' => 'VUvzsc2j3RftCJvllUH51KfBBbQ4KZIqRpgI9ftkkryQ5Sk7EDUSqVxaVdhoECONY/zhWi6zfTn9CefazeF/RQNHSf/FciqtOnt165aEWl2fCYNMJ5gkQwvyvzihgs6SRH/9ONPeSc6SQzI4DmHrR44ZNuNmN76pqtUw+L0/v3s=',
+))
+2015-05-14 18:31:48  response: stdClass::__set_state(array(
+   'alipay_trade_pay_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.INVALID_PARAMETER',
+     'sub_msg' => '参数无效',
+  )),
+   'sign' => 'VUvzsc2j3RftCJvllUH51KfBBbQ4KZIqRpgI9ftkkryQ5Sk7EDUSqVxaVdhoECONY/zhWi6zfTn9CefazeF/RQNHSf/FciqtOnt165aEWl2fCYNMJ5gkQwvyvzihgs6SRH/9ONPeSc6SQzI4DmHrR44ZNuNmN76pqtUw+L0/v3s=',
+))
+2015-05-14 18:32:19  response: stdClass::__set_state(array(
+   'alipay_trade_pay_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.PAYMENT_AUTH_CODE_INVALID',
+     'sub_msg' => '支付失败，获取顾客账户信息失败，请顾客刷新付款码后重新收款，如再次收款失败，请联系管理员处理。[SOUNDWAVE_PARSER_FAIL]',
+  )),
+   'sign' => 'mrQm8mNYl956tBXfcs8z1HACRXrAHUzTvaSS2vURO6/JiMklHTvdDLWvhppWoP0pSsMRb5yUouKMv5cvSaF3fUdM/9Xdj6SFIj9Iz75WtSfV7/bicTSB03HCi/UbjnG8TOuOgcjK3RnUMn1+Vcr+4Hdkf0Cd1nVaXo4Pa2LPxZ0=',
+))
+2015-05-14 18:39:36  response: stdClass::__set_state(array(
+   'alipay_trade_precreate_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'out_trade_no' => '41242134',
+     'qr_code' => 'https://qr.alipay.com/ba8vroesqdpdsjj694',
+  )),
+   'sign' => 'QOvOSX5mNpV8eRnI+Eb2uV535SU9lLYemOS/IwgINyui8VQLJ6AvcanPcDh8Rq3Q3l4xnGroqqWVHjMZsxtO5zOBKIRzrfF8SbeU5w50t4vnXTqq1hcSRGpi5fJETAls4Uxj+/tH/CcRljm6wG2jt3rZ/E67nTnhCsU3VX/VszQ=',
+))
+2015-05-14 18:42:50  response: stdClass::__set_state(array(
+   'alipay_trade_precreate_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'out_trade_no' => '41242134',
+     'qr_code' => 'https://qr.alipay.com/bahmz2oa8d2h3ycf9f',
+  )),
+   'sign' => 'gP22hlasY4DTsfRNoZzjbYfBRJ3fgVyM2vT0hZYSi2qaX4HFoTg452gZ1iE81Wpj9Z8Zx53gB8ACPCVABvaVF13s1pmzUGB1g7UdwN3LUBPxMrqkrCs647twhLuuAV09S6HFA64a0bMpPVWIHUkmbwDcp5/xaKvC08xV364qJss=',
+))
+2015-05-14 12:49:06  response: stdClass::__set_state(array(
+   'alipay_trade_query_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.TRADE_NOT_EXIST',
+     'sub_msg' => '交易不存在',
+     'out_trade_no' => '3241234',
+  )),
+   'sign' => 'p0uLIsA96S/JyOklMeW+jdYQqjydl2lZmE/PKai13eCSqBS08VmjWCAov4EccmL8GJwvC+hUwaxAFDgYz57LXEhabHqT+/BrfVwhRqxbwEJe+yyOsfQ300+KXFB+WidA/KnBsKjN17JDm7xvHzLgCJCOSV0gmEs//OMr1Lil9NI=',
+))
+2015-05-14 12:53:29  response: stdClass::__set_state(array(
+   'alipay_trade_cancel_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'out_trade_no' => '14134',
+     'retry_flag' => 'N',
+  )),
+   'sign' => 'cJQhhzQpYpviT93gZEnYAlt53JucEnE1JtVBSmjbc+mBzVdKydfCEUkiDecekM36RxK8atbnT2Ep1v8YleA5YbmUKANfbjOMfSo+Vl6W3P0T/erHfP2Qe9hXySaA4LoGBoU2A0FF2CuCLaLs5uO7VVjvdZ4KFNjVVXHxU1HqQFg=',
+))
+2015-05-14 12:53:41  response: stdClass::__set_state(array(
+   'alipay_trade_cancel_response' => 
+  stdClass::__set_state(array(
+     'code' => '10000',
+     'msg' => 'Success',
+     'out_trade_no' => '3241234',
+     'retry_flag' => 'N',
+  )),
+   'sign' => 'wk82NVHPZYXcu0nKXp4J3FUYLESl8z+Fm2EvWGDGAg6CIDlnEnQ6DkOkQndlHfgvYPPZnD1HADUlkok8pODyOV8oNsDstc2EHu1vO/6Mz6QPKDIVq/9XpEzylwO8GPLgIysojyQ4XxbXx/ZdQWotKFpipcUPrm500IkojzmJNTk=',
+))
+2015-05-14 12:58:24  response: stdClass::__set_state(array(
+   'alipay_trade_refund_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.INVALID_PARAMETER',
+     'sub_msg' => '参数无效',
+     'refund_fee' => '0.00',
+  )),
+   'sign' => 'eu3jW5kbKNL0pnaGfdVDaS/YVyNLPdykSlWzlC+FjdNRxPP9k6sQ1xfNpcf7NiJYD73bzD391uTdwFizmuzi/bJtuGF3KMhazbhWuG2tIyemVMqM6nGNqsCZzFo25VHOfG5rF53RhWN7j7gh5zOYTQkzc1li1UMvXiBF53eHB2w=',
+))
+2015-05-14 12:58:54  response: stdClass::__set_state(array(
+   'alipay_trade_refund_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.TRADE_NOT_EXIST',
+     'sub_msg' => '交易不存在',
+     'refund_fee' => '0.00',
+  )),
+   'sign' => 'MANGjZCKsAegoi4ik4JQrMbgnRGTCD3f8OTx6iVyHN/8AYSoqdF7RmtmiZcX/tNjNp8avaCcXMkSc8VDDTQqtlULwjDLQsmwtWWz/wrxuodQwNr4bJILh/CrfDjUm6ZBtHzAWwCzgXCUMqzLjNBeuQHW/IekY6SiQogWujcP0fg=',
+))
+2015-05-14 12:59:13  POST: array (
+)
+2015-05-14 12:59:13  GET: array (
+)
+2015-05-14 13:02:42  POST: array (
+)
+2015-05-14 13:02:42  GET: array (
+)
+2015-05-14 13:03:48  POST: array (
+)
+2015-05-14 13:03:48  GET: array (
+)
+2015-05-14 13:13:31  POST: array (
+)
+2015-05-14 13:13:31  GET: array (
+)
+2015-05-14 19:14:46  response: stdClass::__set_state(array(
+   'alipay_trade_pay_response' => 
+  stdClass::__set_state(array(
+     'code' => '40004',
+     'msg' => 'Business Failed',
+     'sub_code' => 'ACQ.PAYMENT_AUTH_CODE_INVALID',
+     'sub_msg' => '支付失败，获取顾客账户信息失败，请顾客刷新付款码后重新收款，如再次收款失败，请联系管理员处理。[SOUNDWAVE_PARSER_FAIL]',
+  )),
+   'sign' => 'mrQm8mNYl956tBXfcs8z1HACRXrAHUzTvaSS2vURO6/JiMklHTvdDLWvhppWoP0pSsMRb5yUouKMv5cvSaF3fUdM/9Xdj6SFIj9Iz75WtSfV7/bicTSB03HCi/UbjnG8TOuOgcjK3RnUMn1+Vcr+4Hdkf0Cd1nVaXo4Pa2LPxZ0=',
+))
