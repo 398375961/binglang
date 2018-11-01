@@ -1,0 +1,4 @@
+apkname:app-release.apk
+version:apk1-v1.5
+verCode:122
+description:虾米音乐绿色便携版提供高品质音乐MP3的个性化推荐、发布、P2P下载服务，以及线下音乐活动等互动内容。<br/>虾米音乐下载的歌曲在哪里?假如你也不知道在哪里的话，不妨来看看下面的操作吧!
