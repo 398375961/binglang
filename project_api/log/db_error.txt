@@ -1,0 +1,6 @@
+2016-03-11 15:29:02 执行以下SQL语句时失败：'SELECT code FROM t_vm_rand_code WHERE  code > '964720' AND code < '964820' ' <br><br>Unknown column 'code' in 'field list'
+2016-03-11 15:29:02 没有数据，请先执行SQL的'select'语句!
+2016-03-11 15:48:22 执行以下SQL语句时失败：'INSERT INTO t_vm_prizelog (`vmid`,`weichat`,`clientname`,`prizetime`,`pacode`,`goodsname`,`pr_status`) VALUES ("0000000038","sdd409","964721","1457682501","110","芬达","1") ' <br><br>Unknown column 'pr_status' in 'field list'
+2018-07-16 16:50:35 执行以下SQL语句时失败：'SELECT * FROM t_vm_game_play WHERE   = '' ' <br><br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ''' at line 1
+2018-07-16 16:50:42 执行以下SQL语句时失败：'SELECT * FROM t_vm_game_play WHERE   = '' ' <br><br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ''' at line 1
+2018-07-16 16:50:53 执行以下SQL语句时失败：'SELECT * FROM t_vm_game_play WHERE   = '' ' <br><br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= ''' at line 1
