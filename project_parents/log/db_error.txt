@@ -1,0 +1,178 @@
+2016-09-18 15:25:27 SELECT * FROM t_vm_parents WHERE  cardid = '430124198610175610' AND password = '21218cca77804d2ba1922c33e0151105' 
+2016-09-18 16:11:36 SELECT * FROM t_vm_
+2016-09-18 16:11:36 执行以下SQL语句时失败：'SELECT * FROM t_vm_' <br><br>Table 'autosale.t_vm_' doesn't exist
+2016-09-18 16:16:37 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:18:28 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:18:45 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:19:04 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:20:11 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:21:33 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:22:23 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:24:51 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:25:09 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:25:27 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:44:23 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:44:55 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:45:28 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:46:42 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:46:46 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:49:43 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:50:26 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:51:52 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:53:57 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:54:10 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:55:04 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:55:16 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:58:24 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 16:59:33 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:00:33 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:05:43 SELECT COUNT(1) AS con FROM t_vm_saledetail WHERE  salecard = '27F9DC1B' 
+2016-09-18 17:05:43 SELECT * FROM t_vm_saledetail WHERE  salecard = '27F9DC1B'  LIMIT 0,20
+2016-09-18 17:06:17 SELECT COUNT(1) AS con FROM t_vm_saledetail WHERE  salecard = '27F9DC1B' 
+2016-09-18 17:06:17 SELECT * FROM t_vm_saledetail WHERE  salecard = '27F9DC1B'  LIMIT 0,20
+2016-09-18 17:06:22 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:06:27 SELECT COUNT(1) AS con FROM t_vm_saledetail WHERE  salecard = 'CC75F20B' 
+2016-09-18 17:06:27 SELECT * FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  LIMIT 0,20
+2016-09-18 17:13:46 SELECT COUNT(1) AS con FROM t_vm_saledetail WHERE  salecard = 'CC75F20B' 
+2016-09-18 17:13:46 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  LIMIT 0,20
+2016-09-18 17:15:45 SELECT COUNT(1) AS con FROM t_vm_saledetail WHERE  salecard = 'CC75F20B' 
+2016-09-18 17:15:45 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  LIMIT 0,20
+2016-09-18 17:17:02 SELECT COUNT(1) AS con FROM t_vm_saledetail WHERE  salecard = 'CC75F20B' 
+2016-09-18 17:17:03 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  LIMIT 0,20
+2016-09-18 17:17:09 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  LIMIT 0,20
+2016-09-18 17:23:07 SELECT COUNT(1) AS con FROM t_vm_saledetail WHERE  salecard = 'CC75F20B' 
+2016-09-18 17:23:07 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  LIMIT 0,20
+2016-09-18 17:23:28 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  LIMIT 0,20
+2016-09-18 17:23:35 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:23:38 SELECT COUNT(1) AS con FROM t_vm_saledetail WHERE  salecard = 'CC75F20B' 
+2016-09-18 17:23:38 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  LIMIT 0,20
+2016-09-18 17:25:05 SELECT COUNT(1) AS con FROM t_vm_saledetail WHERE  salecard = 'CC75F20B' 
+2016-09-18 17:25:05 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  ORDER BY id DESC LIMIT 0,20
+2016-09-18 17:25:19 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  ORDER BY id DESC LIMIT 20,20
+2016-09-18 17:25:22 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  ORDER BY id DESC LIMIT 40,20
+2016-09-18 17:25:26 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  ORDER BY id DESC LIMIT 60,20
+2016-09-18 17:25:28 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  ORDER BY id DESC LIMIT 80,20
+2016-09-18 17:25:32 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  ORDER BY id DESC LIMIT 60,20
+2016-09-18 17:25:41 SELECT COUNT(1) AS con FROM t_vm_saledetail WHERE  salecard = 'CC75F20B' 
+2016-09-18 17:25:41 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  ORDER BY id DESC LIMIT 15,15
+2016-09-18 17:25:44 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  ORDER BY id DESC LIMIT 60,15
+2016-09-18 17:25:46 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  ORDER BY id DESC LIMIT 75,15
+2016-09-18 17:25:52 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  ORDER BY id DESC LIMIT 60,15
+2016-09-18 17:26:04 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:26:34 SELECT COUNT(1) AS con FROM t_vm_saledetail WHERE  salecard = 'CC75F20B' 
+2016-09-18 17:26:34 SELECT saletime,salemoney,goods_name FROM t_vm_saledetail WHERE  salecard = 'CC75F20B'  ORDER BY id DESC LIMIT 0,15
+2016-09-18 17:27:08 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:28:11 SELECT * FROM t_vm_parents WHERE  cardid = '430124198610175610' AND password = '21218cca77804d2ba1922c33e0151105' 
+2016-09-18 17:28:14 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:40:48 SELECT COUNT(1) AS con FROM t_vm_school_card_log cl JOIN t_vm_school_card sc ON sc.cardid=cl.cardid WHERE  sc.client_id = '430124198610175610' AND cl.cardid = 'CC75F20B' 
+2016-09-18 17:40:48 SELECT cl.* FROM t_vm_school_card_log cl JOIN t_vm_school_card sc ON sc.cardid=cl.cardid WHERE  sc.client_id = '430124198610175610' AND cl.cardid = 'CC75F20B'  ORDER BY cl.id DESC LIMIT 0,20
+2016-09-18 17:40:51 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:43:44 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:43:48 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:44:28 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:44:31 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:44:33 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:45:06 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:45:11 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:45:14 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:46:39 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:46:42 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:47:35 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:47:37 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:48:18 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:48:44 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 17:49:54 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 18:00:47 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 18:00:54 SELECT * FROM t_vm_parents WHERE  cardid = '430124198610175610' AND password = '21218cca77804d2ba1922c33e0151105' 
+2016-09-18 18:00:57 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 18:01:49 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 18:02:18 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 18:02:54 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 18:02:56 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 18:03:08 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-18 18:04:21 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-19 08:17:55 SELECT * FROM t_vm_parents WHERE  cardid = '430124198610175610' AND password = '21218cca77804d2ba1922c33e0151105' 
+2016-09-19 08:17:57 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-19 08:17:59 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-19 08:18:05 SELECT COUNT(1) AS con FROM t_vm_school_card_log cl JOIN t_vm_school_card sc ON sc.cardid=cl.cardid WHERE  sc.client_id = '430124198610175610' AND cl.cardid = 'CC75F20B' 
+2016-09-19 08:18:05 SELECT cl.* FROM t_vm_school_card_log cl JOIN t_vm_school_card sc ON sc.cardid=cl.cardid WHERE  sc.client_id = '430124198610175610' AND cl.cardid = 'CC75F20B'  ORDER BY cl.id DESC LIMIT 0,20
+2016-09-19 08:18:22 SELECT cl.* FROM t_vm_school_card_log cl JOIN t_vm_school_card sc ON sc.cardid=cl.cardid WHERE  sc.client_id = '430124198610175610' AND cl.cardid = 'CC75F20B'  ORDER BY cl.id DESC LIMIT 20,20
+2016-09-19 08:19:14 SELECT COUNT(1) AS con FROM t_vm_school_card_log cl JOIN t_vm_school_card sc ON sc.cardid=cl.cardid WHERE  sc.client_id = '430124198610175610' AND cl.cardid = 'CC75F20B' 
+2016-09-19 08:19:14 SELECT cl.* FROM t_vm_school_card_log cl JOIN t_vm_school_card sc ON sc.cardid=cl.cardid WHERE  sc.client_id = '430124198610175610' AND cl.cardid = 'CC75F20B'  ORDER BY cl.id DESC LIMIT 20,20
+2016-09-19 08:19:42 SELECT cl.* FROM t_vm_school_card_log cl JOIN t_vm_school_card sc ON sc.cardid=cl.cardid WHERE  sc.client_id = '430124198610175610' AND cl.cardid = 'CC75F20B'  ORDER BY cl.id DESC LIMIT 40,20
+2016-09-19 08:19:46 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-19 08:19:50 SELECT COUNT(1) AS con FROM t_vm_school_card_log cl JOIN t_vm_school_card sc ON sc.cardid=cl.cardid WHERE  sc.client_id = '430124198610175610' AND cl.cardid = '27F9DC1B' 
+2016-09-19 08:19:50 SELECT cl.* FROM t_vm_school_card_log cl JOIN t_vm_school_card sc ON sc.cardid=cl.cardid WHERE  sc.client_id = '430124198610175610' AND cl.cardid = '27F9DC1B'  ORDER BY cl.id DESC LIMIT 0,20
+2016-09-19 08:20:09 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-19 08:33:03 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-19 08:33:06 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:35:57 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:37:49 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:38:45 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:38:49 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:38:52 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:39:02 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:39:07 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:40:55 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:41:32 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:56:20 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:56:24 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:58:32 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 08:59:11 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:00:11 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:05:15 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:05:15 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:08:23 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:08:23 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:11:17 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:11:17 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:11:19 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:11:19 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:11:24 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:11:24 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:11:36 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:11:36 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:11:57 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:11:57 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:12:00 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:12:00 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:12:03 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:12:03 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:13:07 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:13:07 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:13:10 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:13:10 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:14:55 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:14:55 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:17:16 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:17:16 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:20:03 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:20:03 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:20:27 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:20:27 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:21:31 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:21:31 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:21:49 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:21:49 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:22:07 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:22:07 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:23:12 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:23:12 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:29:51 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-19 09:29:54 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:29:54 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:30:09 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:30:09 UPDATE t_vm_school_card SET  `status`="0",`mobile`="",`day_limit`="0",`goods_allow`="44,59",`goods_fobid`="45,36"  WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:30:12 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:30:12 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:31:03 SELECT * FROM t_vm_school_card WHERE  cardid = '27F9DC1B' 
+2016-09-19 09:31:03 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:31:05 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-19 09:31:07 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-19 09:31:15 SELECT * FROM t_vm_school_card WHERE  cardid = 'CC75F20B' 
+2016-09-19 09:31:15 SELECT * FROM t_vm_goods WHERE  user_id = '1'  ORDER BY goods_type DESC
+2016-09-19 09:40:54 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-19 09:43:31 UPDATE t_vm_parents SET  `password`="e10adc3949ba59abbe56e057f20f883e"  WHERE  cardid = '430124198610175610' 
+2016-09-19 09:43:39 SELECT * FROM t_vm_parents WHERE  cardid = '430124198610175610' AND password = 'e10adc3949ba59abbe56e057f20f883e' 
+2016-09-19 09:43:41 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
+2016-09-19 09:43:43 SELECT * FROM t_vm_school_card WHERE  client_id = '430124198610175610' 
